@@ -10,3 +10,6 @@
 ## What is the purpose of this page?
 
 In this repository, I will attempt to collect online contents related to the Rat Race, the Anti-Work culture and how to manage to individually live a life outside the unreasonable demands of most modern, capitalistic societies. I will also attempt to gather people to start an open, friendly and constructive conversation to search for a collective solution within the legal and economic systems in which we live in.
+
+A good place to start:
+[Antiwork: Unemployment for all, not just the rich!](https://www.reddit.com/r/antiwork/wiki/index#wiki_frequently_asked_questions)
